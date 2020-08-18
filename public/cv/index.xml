@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cvs | </title>
+    <link>/cv/</link>
+      <atom:link href="/cv/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cvs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Cvs</title>
+      <link>/cv/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/cv/footer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/footer/</guid>
+      <description>&amp;nbsp;
+&lt;hr /&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;CV gerado usando R Markdown por &lt;a href=&#34;https://lucasmoraes.io&#34;&gt;Lucas Moraes&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;span style=&#34;color: #808080;&#34;&gt;&lt;em&gt;moraessaur@gmail.com&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;!-- Add icon library --&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&#34;&gt;
+
+&lt;!-- Add font awesome icons --&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+    &lt;a href=&#34;https://github.com/moraessaur/&#34; class=&#34;fa fa-github&#34; style=&#34;font-size:40px;color:#3d3d3d;&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;https://www.linkedin.com/in/lucas-moraes-78944a32/&#34; class=&#34;fa fa-linkedin&#34; style=&#34;font-size:40px;color:#3d3d3d;&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;https://twitter.com/moraessaur&#34; class=&#34;fa fa-twitter&#34; style=&#34;font-size:40px;color:#3d3d3d;&#34;&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+
+&amp;nbsp;
+</description>
+    </item>
+    
+  </channel>
+</rss>
