@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-<DIV align="justify"> Olá, meu nome é Lucas Moraes, sou biólogo, com experiência da área de biologia da conservação, análise de dados e fotografia. Este é um pequeno site pessoal contendo informações sobre diferentes momentos de minha trajetória profissional, meu cv e um pequeno portfolio com análises e código. Atualmente tenho prestado consultorias de programação em R, principalmente para a academia, ao passo que refino minhas técnicas, tiro projetos da gaveta e procuro novas oportunidades. </b>
+<DIV align="justify">Miau Olá, meu nome é Lucas Moraes, sou biólogo, com experiência da área de biologia da conservação, análise de dados e fotografia. Este é um pequeno site pessoal contendo informações sobre diferentes momentos de minha trajetória profissional, meu cv e um pequeno portfolio com análises e código. Atualmente tenho prestado consultorias de programação em R, principalmente para a academia, ao passo que refino minhas técnicas, tiro projetos da gaveta e procuro novas oportunidades. </b>
