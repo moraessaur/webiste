@@ -13,9 +13,9 @@ education:
     year: 2012
 email: "moraessaur@gmail.com"
 interests:
-- Biologia da conservação
-- Análise e visualização de dados
 - Programação em R
+- Análise e visualização de dados
+- Biologia da conservação
 - Estatística
 - Fotografia
 organizations:
@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-<DIV align="justify">Miau Olá, meu nome é Lucas Moraes, sou biólogo, com experiência da área de biologia da conservação, análise de dados e fotografia. Este é um pequeno site pessoal contendo informações sobre diferentes momentos de minha trajetória profissional, meu cv e um pequeno portfolio com análises e código. Atualmente tenho prestado consultorias de programação em R, principalmente para a academia, ao passo que refino minhas técnicas, tiro projetos da gaveta e procuro novas oportunidades. </b>
+<DIV align="justify">Sou biólogo e analista de dados. Durante a maior parte de minha trajetória, meu trabalho orbitou entre a biologia da conservação de plantas, evolução molecular/bioinformática e fotografia. Durante cerca de 5 anos, atuei como analista ambiental no Centro Nacional de Conservação da Flora, no Jardim Botânico do Rio de Janeiro. Em paralelo, conduzi meu mestrado em genética na Universidade Federal do Rio de Janeiro, onde utilizei a programação em R extensivamente em análises estatisticas e de dados. Atualmente, tenho prestado pequenas consultorias em análise de dados e otimização de processos para projetos em geral, ao passo que refino minha capacitação em ferramentas de ciência de dados.  </b>
