@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Analista de dados - Freelancer"
+  title = "Programador R - Freelancer"
   company = " "
   company_url = ""
   location = "Remoto"
@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   <DIV align="justify">
-Tenho prestado consultoria, principalmente para projetos acadêmicos. Trabalho com formatação e limpeza de dados, coleta, análise e visualização, usando principalmente programação em R (e markdown), mas também uso um pouco de python, SQL, além de ter conhecimento em Shiny.
+Presto consultoria principalmente, mas não só, em projetos científicos. Auxilio na criação de scripts cutomizados atendendo a demandas específicas, auxilio na formulação de perguntas, análises estatísticas, extração de dados de bases, limpeza e formatação de tabelas. Minha linguagem de programação preferencial é R (incluindo R Markdown e Shiny), mas também uso, em menor escala, SQL e Python.
 <br><br>
 Projetos recentes:
 <br>
