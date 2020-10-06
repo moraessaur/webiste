@@ -62,6 +62,19 @@ subtitle = ""
   name = "Python"
   description = "Pandas, Matplotlib, Seaborn"
 
+[[feature]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  name = "Google Scholar"
+  description = ""
+
+#[[feature]] nao funciona :(
+#  icon = "stack-overflow"
+#  icon_pack = "ai"
+#  name = "Stack Overflow"
+#  description = ""
+
+
 
 # Uncomment to use emoji icons.
 # [[feature]]

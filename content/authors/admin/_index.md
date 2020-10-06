@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-<DIV align="justify">Sou biólogo e analista de dados. Durante a maior parte de minha trajetória, meu trabalho orbitou entre a biologia da conservação de plantas, evolução molecular/bioinformática e fotografia. Durante cerca de 5 anos, atuei como analista ambiental no Centro Nacional de Conservação da Flora, no Jardim Botânico do Rio de Janeiro. Em paralelo, conduzi meu mestrado em genética na Universidade Federal do Rio de Janeiro, onde utilizei a programação em R extensivamente em análises estatisticas e de dados. Atualmente, tenho prestado pequenas consultorias em análise de dados e otimização de processos para projetos em geral, ao passo que refino minha capacitação em ferramentas de ciência de dados.  </b>
+<DIV align="justify">Biólogo especializado em bioinformática e biologia da conservação. Muito interessado em análises de dados usando R, bem como limpeza e visualização. Atualmente prestando pequenas consultorias, com temas diversos, ligados à essas atividades. Também atuei paralelamente com fotografia por onde passei, mas o que tenho mais interesse mesmo é R e ciência de dados em geral (e um tanto de python e sql).  </b>

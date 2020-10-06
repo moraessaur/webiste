@@ -15,4 +15,8 @@ weight = 25
 
 +++
 
-<DIV align="justify">Uma versão mais canônica do meu <i>curriculum vitae</i> encontra-se disponível <b><a href="cv/" target="_blank">aqui</a></b>. Desenvolvi também uma <b><a href='https://instagram.com/lcmmoraes' target='_blank'>versão extendida</a></b> do mesmo, onde explico de maneira mais detalhada os projetos em que atuei e seus produtos. Parte do meu código pode ser conferido em meu <b><a href='https://github.com/moraessaur/GitHub' target='_blank'>GitHub</a></b>. Também possuo um portfolio contendo análises e visualizações diversas, em minhas <b><a href='https://github.com/moraessaur/GitHub' target='_blank'>GitHub Pages</a></b>, algumas fruto de projetos, outras da curiosidade. Mais algumas informações podem ser conferidas em meu <b><a href='https://github.com/moraessaur/GitHub' target='_blank'>LinkedIn</a></b>, <b><a href='https://github.com/moraessaur/GitHub' target='_blank'>Research Gate</a></b> ou <b><a href='https://github.com/moraessaur/GitHub' target='_blank'>currículo lattes</a></b>. Já se o assunto é fotografia, atualmente hospedo a maioria em meu <b><a href='https://instagram.com/lcmmoraes' target='_blank'>Instagram</a></b>.
+<DIV align="justify">Uma versão mais canônica do meu <i>curriculum vitae</i> encontra-se disponível <b><a href="cv/" target="_blank">aqui</a></b>.
+<br><br>
+Estou atualizando meu GitHub nesse momento e ele pode estar um pouco bagunçado, por isso, agora é mais fácil visualizar meu código em minhas GitPages. Lá coloquei uma <b><a href="https://moraessaur.github.io/flora2020_analysis/" target="_blank">uma pequena análise exploratória com dados de plantas</a></b>, onde limpo, processo e exploro alguns dados.
+<br><br>
+Também criei uma <b><a href="https://moraessaur.github.io/portolio_viz/" target="_blank">pequena página com algumas visualizações</a></b>, onde coloco alguns gráficos de projetos que participei.

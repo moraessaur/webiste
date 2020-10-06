@@ -2,14 +2,14 @@
 # Contact widget.
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 130  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
 
-title = "Contact"
-subtitle = ""
+title = "Contato"
+subtitle = " Estou sempre à procura por novas oportunidades. Caso queira conversar sobre um projeto, R, me contratar para um mega trabalho ou apenas mandar uma mensagem, só inserir ao lado :)"
 
 # Automatically link email and phone?
-autolink = true
+autolink = false
 
 # Email form provider
 #   0: Disable email form

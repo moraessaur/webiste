@@ -21,4 +21,9 @@
 [[main]]
   name = "Proficiências"
   url = "#skills"
-  weight = 30
+  weight = 35
+
+[[main]]
+  name = "Contato"
+  url = "#contact"
+  weight = 40
