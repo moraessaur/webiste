@@ -17,6 +17,7 @@ weight = 25
 
 <DIV align="justify">Uma versão mais canônica do meu <i>curriculum vitae</i> encontra-se disponível <b><a href="cv/" target="_blank">aqui</a></b>.
 <br><br>
-Estou atualizando meu GitHub nesse momento e ele pode estar um pouco bagunçado, por isso, agora é mais fácil visualizar meu código em minhas GitPages. Lá coloquei uma <b><a href="https://moraessaur.github.io/flora2020_analysis/" target="_blank">uma pequena análise exploratória com dados de plantas</a></b>, onde limpo, processo e exploro alguns dados.
+
+Estou atualizando meu <b><a href="https://github.com/moraessaur" target="_blank"> GitHub</a></b> nesse momento e ele pode estar um pouco bagunçado, por isso, agora é mais fácil visualizar meu código em minhas GitPages. Lá coloquei uma <b><a href="https://moraessaur.github.io/flora2020_analysis/" target="_blank">uma pequena análise exploratória com dados de plantas</a></b>, onde limpo, processo e exploro alguns dados.
 <br><br>
-Também criei uma <b><a href="https://moraessaur.github.io/portolio_viz/" target="_blank">pequena página com algumas visualizações</a></b>, onde coloco alguns gráficos de projetos que participei.
+Também criei uma <b><a href="https://moraessaur.github.io/portolio_viz/" target="_blank"> página com algumas visualizações</a></b>, onde coloco alguns gráficos de projetos que participei.
