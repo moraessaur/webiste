@@ -13,15 +13,15 @@ education:
     year: 2012
 email: "moraessaur@gmail.com"
 interests:
+- Data science
 - Programação em R
 - Análise e visualização de dados
-- Biologia da conservação
 - Estatística
-- Fotografia
+
 organizations:
 - name: "moraessaur@gmail.com"
   url: ""
-role: Biólogo, analista de dados e fotógrafo
+role: Analista de dados & biólogo.
 social:
 - icon: linkedin
   icon_pack: fab
@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-<DIV align="justify">Biólogo especializado em bioinformática e biologia da conservação. Muito interessado em análises de dados usando R, bem como limpeza e visualização. Atualmente prestando pequenas consultorias, com temas diversos, ligados à essas atividades. Também atuei paralelamente com fotografia por onde passei, mas o que tenho mais interesse mesmo é R e ciência de dados em geral (e um tanto de python e sql).  </b>
+<DIV align="justify">Biólogo por formação, atuo como analista de dados independente. Auxilio pessoas à estruturarem seus dados e buscar padrões nos mesmos para responder perguntas. Faço uso principalmente da programação em R, ferramentas de data science e estatística. Fiz esse pequeno site pessoal para divulgar um pouco da minha trajetória em senso mais amplo.  </b>
