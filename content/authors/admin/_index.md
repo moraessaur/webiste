@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-<DIV align="justify">Biólogo por formação, atuo como analista de dados independente. Auxilio pessoas à estruturarem seus dados e buscar padrões nos mesmos para responder perguntas. Faço uso principalmente da programação em R, ferramentas de data science e estatística. Fiz esse pequeno site pessoal para divulgar um pouco da minha trajetória em senso mais amplo.  </b>
+<DIV align="justify">testeBiólogo por formação, atuo como analista de dados independente. Auxilio pessoas à estruturarem seus dados e buscar padrões nos mesmos para responder perguntas. Faço uso principalmente da programação em R, ferramentas de data science e estatística. Fiz esse pequeno site pessoal para divulgar um pouco da minha trajetória em senso mais amplo.  </b>
