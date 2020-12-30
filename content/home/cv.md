@@ -15,10 +15,14 @@ weight = 25
 
 +++
 
-<DIV align="justify">Uma versão mais canônica do meu <i>curriculum vitae</i> encontra-se disponível <b><a href="cv/" target="_blank">aqui</a></b>, onde listo minha experiêcia e capacitação não apenas em análise de dados, mas também relacionadas à outras atividades profissionais em que estive envolvido.
+<DIV align="justify">Uma versão mais canônica do meu <i>curriculum vitae</i> encontra-se disponível <b><a href="cv/" target="_blank">aqui</a></b>, onde listo minha experiência e capacitação não apenas em análise de dados, mas também relacionadas à outras atividades profissionais em que estive envolvido.
 <br><br>
 
-Estou sempre atualizando e alterando meu <b><a href="https://github.com/moraessaur" target="_blank"> GitHub</a></b>. Alternativamente, é possível visualizar parte do meu código em minhas GitPages. Lá coloquei uma <b><a href="https://moraessaur.github.io/flora2020_analysis/" target="_blank">uma pequena análise exploratória com dados de plantas</a></b>, onde limpo, processo e exploro alguns dados. também criei uma <b><a href="https://moraessaur.github.io/portolio_viz/" target="_blank"> página com algumas visualizações</a></b>, onde coloco alguns gráficos de projetos que participei.
-<br><br>
+Ademais, tenho hospedado minhas análises e código em diferentes lugares na internet:
 
-Caso a ideia seja conferir um pouco da minha produção científica, a maior parte dela está organizada em meu <b><a href="https://www.researchgate.net/profile/Lucas_Moraes5" target="_blank">Research Gate</a></b>.
+* <b><a href="https://lucasmoraes.blog" target="_blank">No meu blog</a></b>: recentemente comecei a postar algumas análises diversas na internet, utilizando ferramentas que uso tipicamente em minhas análises e algumas visualizações.
+<br>
+
+* <b><a href="https://www.kaggle.com/moraessaur/" target="_blank">No meu kaggle</a></b>: análise de datasets diversos, em inglês, com todo código na íntegra.
+
+Todas análises são reprodutíveis, em código aberto, com seus respectivos repositórios públicos hospedados em meu <b><a href="https://www.github.com/moraessaur/" target="_blank">GitHub.</a></b>
