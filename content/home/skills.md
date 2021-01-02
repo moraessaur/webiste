@@ -23,14 +23,32 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Análise e visualização de dados"
-  description = ""  
+  name = "Análise de dados"
+  description = "Tidyverse: dplyr, lubridate, forcats, purr..."  
+
+[[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "Data viz"
+  description = "ggplot2, plotly"  
 
 [[feature]]
   icon = "camera"
   icon_pack = "fas"
   name = "Fotografia"
   description = "Em campo e institucional ."
+
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Estatística"
+  description = "Regressões, árvores de classificação, EDA"  
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Pandas, Matplotlib, Seaborn"
 
 [[feature]]
   icon = "adobe"
@@ -57,15 +75,15 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "Pandas, Matplotlib, Seaborn"
-
-[[feature]]
   icon = "google-scholar"
   icon_pack = "ai"
   name = "Google Scholar"
+  description = ""
+
+[[feature]]
+  icon = "leaf"
+  icon_pack = "fas"
+  name = "IUCN Red List"
   description = ""
 
 #[[feature]] nao funciona :(
@@ -83,11 +101,15 @@ subtitle = ""
 #  name = "Emojiness"
 #  description = "100%"  
 
+# Deixei comentado porque ficou feio, mas esta funcionando
+# Usar icones customizados
+# tirei porque o colorido nao combina, mas da para fazer algo no ps
+
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
+#[[feature]]
+#  icon = "tidyverse"
 #  icon_pack = "custom"
 #  name = "Surfing"
 #  description = "90%"

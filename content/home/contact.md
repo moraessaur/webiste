@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Contato"
-subtitle = " Estou sempre à procura por novas oportunidades. Caso queira conversar sobre um projeto, R, me contratar para um mega trabalho ou apenas mandar uma mensagem, só inserir ao lado :)"
+subtitle = "Caso queira entrar em contato para conversar sobre algum trabalho, é só mandar mensagem ao lado (ou por email)."
 
 # Automatically link email and phone?
 autolink = false
