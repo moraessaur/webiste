@@ -75,9 +75,9 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  name = "Google Scholar"
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
   description = ""
 
 [[feature]]
