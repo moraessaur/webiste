@@ -13,10 +13,12 @@ education:
     year: 2012
 email: "moraessaur@gmail.com"
 interests:
-- Data science
-- Programação em R
-- Análise e visualização de dados
+
+
+- Análise de dados
+- Data Viz
 - Estatística
+- Biologia
 
 organizations:
 - name: "moraessaur@gmail.com"
@@ -48,4 +50,6 @@ user_groups:
 - Visitors
 ---
 
-<DIV align="justify">Analista de dados e biólogo. Atualmente presto consultoria à projetos científicos, usando programação em R e ferramentas de <i>data science</i> para responder perguntas e resolver problemas, minha área de maior interesse. Nesse pequeno site pessoal, mantenho meu currículo, links para diferentes repositórios com código e mais algumas informações adicionais sobre minha trajetória. </b>
+<DIV align="justify">Biólogo e analista de dados. Gosto de usar programação em R e ferramentas de <i>data science</i> para responder perguntas e resolver problemas. Sou bacharel e mestre em genética pela UFRJ, tendo experiência também na área de biologia da conservação. Atualmente presto consultoria com análise de dados, principalmente para projetos científicos.
+<br><br>
+Nessa pequena página pessoal, resumo um pouco da minha trajetória e disponibilizo alguns recursos acerca de minha capacitação técnica e assuntos dos quais tenho interesse. </b>
