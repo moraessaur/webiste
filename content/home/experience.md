@@ -26,7 +26,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 <DIV align="justify">
-  Cientista de dados na Melhor Envio.
+  Atualmente trabalho como Cientista de dados na Melhor Envio, sendo
+  integrante da equipe de <i>Business Inteligence</i>.
 </DIV>
   """
 
@@ -39,15 +40,18 @@ date_format = "Jan 2006"
   date_end = "2021-02-16"
   description = """
   <DIV align="justify">
-Presto consultoria principalmente, mas não só, para projetos científicos. Auxilio na criação de scripts cutomizados atendendo a demandas específicas, na formulação de perguntas, análises estatísticas, extração de dados de bases online, limpeza e formatação de tabelas. Minha linguagem de programação preferencial é R (incluindo R Markdown e Shiny), mas também uso, em menor escala, SQL e Python.
+Prestei consultoria em análise de dados para projetos científicos. 
+Meu trabalho durante esse período envolveu fazer o uso de ferramentas
+de data science para extrair, limpar, analisar e visualizar dados de origens diversas, para artigos ou relatórios científicos. Também fiz extenso uso de análises estatísticas para a resolução/testagem de perguntas, usando R, Python e SQL, além de criar scripts customizdos
+atendendo demandas em geral.
 <br><br>
 
-* Uso ferramentas como:
+* Algumas ferramentas utilizadas:
   + Regressões lineares e logísticas.
   + Testes de hipóteses
   + Árvores de classificação
 
-* Alguns pacotes que utilizo:
+* Alguns pacotes utilizados:
   + Tidyverse
   + ggplot2
   + broom
