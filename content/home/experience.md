@@ -18,12 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Cientista de dados"
+  company = "Melhor envio"
+  company_url = "melhorenvio.com.br/"
+  location = "Remoto"
+  date_start = "2021-02-17"
+  date_end = ""
+  description = """
+<DIV align="justify">
+  Cientista de dados na Melhor Envio.
+</DIV>
+  """
+
+[[experience]]
   title = "Consultor - Análise de dados"
   company = " "
   company_url = ""
   location = "Remoto"
   date_start = "2018-07-01"
-  date_end = ""
+  date_end = "2021-02-16"
   description = """
   <DIV align="justify">
 Presto consultoria principalmente, mas não só, para projetos científicos. Auxilio na criação de scripts cutomizados atendendo a demandas específicas, na formulação de perguntas, análises estatísticas, extração de dados de bases online, limpeza e formatação de tabelas. Minha linguagem de programação preferencial é R (incluindo R Markdown e Shiny), mas também uso, em menor escala, SQL e Python.
