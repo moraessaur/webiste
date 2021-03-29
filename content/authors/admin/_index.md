@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: "moraessaur@gmail.com"
   url: ""
-role: Analista de dados & biólogo.
+role: Cientista de dados & biólogo.
 social:
 - icon: linkedin
   icon_pack: fab
