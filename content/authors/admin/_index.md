@@ -50,6 +50,6 @@ user_groups:
 - Visitors
 ---
 
-<DIV align="justify">Biólogo e analista de dados. Gosto de usar programação em R e ferramentas de <i>data science</i> para responder perguntas e resolver problemas. Sou bacharel e mestre em genética pela UFRJ, tendo experiência também na área de biologia da conservação. Atualmente presto consultoria com análise de dados, principalmente para projetos científicos.
+<DIV align="justify">Cientista de dados e biólogo. Gosto de usar programação em R e ferramentas de <i>data science</i> para responder perguntas e resolver problemas. Sou bacharel e mestre em genética pela UFRJ, tendo experiência também na área de biologia da conservação, atualmente trabalhando integralmente como cientista de dados.
 <br><br>
 Nessa pequena página pessoal, resumo um pouco da minha trajetória e disponibilizo alguns recursos acerca de minha capacitação técnica e assuntos dos quais tenho interesse. </b>
